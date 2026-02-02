@@ -1,0 +1,49 @@
+{
+    "default_filament_colour": [
+        "#9A9996"
+    ],
+    "fan_max_speed": [
+        "50"
+    ],
+    "filament_cost": [
+        "60"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "13"
+    ],
+    "filament_settings_id": [
+        "3dfila ABS"
+    ],
+    "filament_vendor": [
+        "3dfila"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "110"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "110"
+    ],
+    "inherits": "Creality Generic ABS @Ender-3V3-all",
+    "is_custom_defined": "0",
+    "name": "3dfila ABS",
+    "nozzle_temperature": [
+        "240"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "240"
+    ],
+    "pressure_advance": [
+        "0.055"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "0"
+    ],
+    "slow_down_layer_time": [
+        "1"
+    ],
+    "version": "1.9.0.2"
+}

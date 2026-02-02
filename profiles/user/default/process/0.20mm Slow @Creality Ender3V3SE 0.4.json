@@ -1,0 +1,17 @@
+{
+    "brim_type": "brim_ears",
+    "from": "User",
+    "inherits": "0.20mm Standard @Creality Ender3V3SE 0.4",
+    "inner_wall_speed": "60",
+    "internal_solid_infill_speed": "90",
+    "is_custom_defined": "0",
+    "name": "0.20mm Slow @Creality Ender3V3SE 0.4",
+    "outer_wall_speed": "50",
+    "print_settings_id": "0.20mm Slow @Creality Ender3V3SE 0.4",
+    "seam_position": "random",
+    "sparse_infill_pattern": "adaptivecubic",
+    "sparse_infill_speed": "90",
+    "travel_speed": "100",
+    "version": "2.1.1.0",
+    "wall_loops": "3"
+}

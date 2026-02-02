@@ -1,0 +1,26 @@
+{
+    "emit_machine_limits_to_gcode": "0",
+    "from": "User",
+    "gcode_flavor": "klipper",
+    "inherits": "Creality Ender-3 V3 SE 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "END_PRINT",
+    "machine_start_gcode": ";-----------------------------------------\n; Klipper Custom Start G-Code - START HERE\n;-----------------------------------------\nSTART_PRINT EXTRUDER_TEMP={first_layer_temperature[0]} BED_TEMP={first_layer_bed_temperature[0]} \n;-----------------------------------------\n; Klipper Custom Start G-Code - END HERE\n;-----------------------------------------",
+    "max_layer_height": [
+        "0.3"
+    ],
+    "name": "Hera",
+    "print_host": "http://hera/",
+    "printer_notes": "extruder\nRecv:  Classic PID\nRecv:  Kp: 18.23 Ki: 1.24 Kd: 66.84\nRecv: PID Autotune finished! Put the last Kp, Ki and Kd constants from below into Configuration.h\nRecv: #define DEFAULT_Kp 18.23\nRecv: #define DEFAULT_Ki 1.24\nRecv: #define DEFAULT_Kd 66.84\nbed:\nRecv:  Kp: 124.73 Ki: 11.88 Kd: 872.85\nRecv: PID Autotune finished! Put the last Kp, Ki and Kd constants from below into Configuration.h\nRecv: #define DEFAULT_bedKp 124.73\nRecv: #define DEFAULT_bedKi 11.88\nRecv: #define DEFAULT_bedKd 872.85",
+    "printer_settings_id": "Hera",
+    "printhost_apikey": "7CBF6189229042C998BB1560CAFCA482",
+    "retraction_length": [
+        "5"
+    ],
+    "retraction_speed": [
+        "65"
+    ],
+    "thumbnails": "600x600/PNG",
+    "time_lapse_gcode": "TIMELAPSE_TAKE_FRAME",
+    "version": "1.9.0.2"
+}

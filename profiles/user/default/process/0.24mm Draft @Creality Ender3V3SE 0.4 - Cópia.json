@@ -1,0 +1,11 @@
+{
+    "from": "User",
+    "inherits": "0.24mm Draft @Creality Ender3V3SE 0.4",
+    "initial_layer_print_height": "0.25",
+    "is_custom_defined": "0",
+    "name": "0.24mm Draft @Creality Ender3V3SE 0.4 - Cópia",
+    "print_settings_id": "0.24mm Draft @Creality Ender3V3SE 0.4 - Cópia",
+    "sparse_infill_pattern": "honeycomb",
+    "version": "2.3.0.3",
+    "wall_loops": "3"
+}

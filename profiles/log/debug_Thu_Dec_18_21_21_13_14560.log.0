@@ -1,0 +1,23 @@
+[error]	2025-12-18 21:21:24.088614[Thread 0x00007fc9e00e9f00]:can not find parent for config /home/oangelo/.config/OrcaSlicer/user/default/process/0.20mm Standard @Creality Ender3V3SE - Copy.json!
+[error]	2025-12-18 21:21:24.089875[Thread 0x00007fc9e00e9f00]:can not find parent for config /home/oangelo/.config/OrcaSlicer/user/default/process/0.16mm Optimal @Creality Ender3V3SE - Copy.json!
+[error]	2025-12-18 21:21:24.169756[Thread 0x00007fc9e00e9f00]:can not find parent for config /home/oangelo/.config/OrcaSlicer/user/default/process/0.12mm Fine Slow.json!
+[error]	2025-12-18 21:21:26.382011[Thread 0x00007fc9e00e9f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-18 21:21:26.396818[Thread 0x00007fc90a9fc6c0]:Unable to open the file/home/oangelo/Downloads/acoplador_nariz.3mf
+[error]	2025-12-18 21:21:26.396859[Thread 0x00007fc9095f76c0]:Unable to open the file/home/oangelo/Downloads/Brinde_Nádia.3mf
+[error]	2025-12-18 21:21:26.396859[Thread 0x00007fc90a9fc6c0]:Unable to open the file/home/oangelo/Downloads/acoplador (1).3mf
+[error]	2025-12-18 21:21:26.396911[Thread 0x00007fc9095f76c0]:Unable to open the file/home/oangelo/Downloads/nariz.3mf
+[error]	2025-12-18 21:21:26.396976[Thread 0x00007fc909df96c0]:Unable to open the file/home/oangelo/Downloads/DIN rail test rack v14.3mf
+[error]	2025-12-18 21:21:26.397086[Thread 0x00007fc908df56c0]:Unable to open the file/home/oangelo/Downloads/Encaixe satélite (1).3mf
+[error]	2025-12-18 21:21:26.397124[Thread 0x00007fc908df56c0]:Unable to open the file/home/oangelo/.config/OrcaSlicer/log/iron_legion_helmet.3mf
+[error]	2025-12-18 21:21:26.397205[Thread 0x00007fc9089f46c0]:Unable to open the file/home/oangelo/Downloads/SkateBoard_56mm_Wall_Mount.3mf
+[warning]	2025-12-18 21:21:27.311354[Thread 0x00007fc9e00e9f00]:21:21:27: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-18 21:21:27.317994[Thread 0x00007fc9e00e9f00]:21:21:27: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-18 21:21:27.321516[Thread 0x00007fc9e00e9f00]:21:21:27: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-18 21:21:27.411274[Thread 0x00007fc9e00e9f00]:21:21:27: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-12-18 21:21:29.017893[Thread 0x00007fc9e00e9f00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-18 21:21:29.050261[Thread 0x00007fc9e00e9f00]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-12-18 21:21:31.037475[Thread 0x00007fc9e00e9f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-19 09:09:45.350974[Thread 0x00007fc9e00e9f00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-19 10:10:51.826401[Thread 0x00007fc952ff76c0]:Arrange full params: {"min_obj_distance":14000000,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":47,000000,"clearance_height_to_lid":34,000000,"clearance_radius":90,000000,"printable_height":250,000000,
+[error]	2025-12-19 19:08:37.051683[Thread 0x00007fc9e00e9f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-19 19:11:34.277434[Thread 0x00007fc9e00e9f00]:calc_exclude_triangles:Unable to create exclude triangles

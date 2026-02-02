@@ -1,0 +1,22 @@
+{
+    "filament_retraction_length": [
+        "0.5"
+    ],
+    "filament_settings_id": [
+        "ASA"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "110"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "110"
+    ],
+    "inherits": "Creality Generic ASA @Ender-3V3-all",
+    "is_custom_defined": "0",
+    "name": "ASA",
+    "nozzle_temperature": [
+        "245"
+    ],
+    "version": "2.3.0.3"
+}

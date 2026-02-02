@@ -1,0 +1,9 @@
+{
+    "exclude_object": "1",
+    "from": "User",
+    "inherits": "0.24mm Draft @Creality Ender3V3SE 0.4",
+    "is_custom_defined": "0",
+    "name": "Exclude objects - 0.24mm Draft @Creality Ender3V3SE 0.4",
+    "print_settings_id": "Exclude objects - 0.24mm Draft @Creality Ender3V3SE 0.4",
+    "version": "2.3.0.3"
+}

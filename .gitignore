@@ -1,0 +1,17 @@
+# Arquivos temporários
+*.tmp
+*.log
+*.lock
+*~
+.DS_Store
+
+# Arquivos grandes (modelos 3D)
+*.3mf
+*.stl
+*.step
+*.obj
+*.stp
+
+# Cache e thumbnails
+thumbs/
+cache/

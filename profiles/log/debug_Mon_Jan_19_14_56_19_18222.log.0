@@ -1,0 +1,19 @@
+[error]	2026-01-19 14:56:29.124813[Thread 0x00007f854670ff00]:can not find parent for config /home/oangelo/.config/OrcaSlicer/user/default/process/0.20mm Standard @Creality Ender3V3SE - Copy.json!
+[error]	2026-01-19 14:56:29.125864[Thread 0x00007f854670ff00]:can not find parent for config /home/oangelo/.config/OrcaSlicer/user/default/process/0.16mm Optimal @Creality Ender3V3SE - Copy.json!
+[error]	2026-01-19 14:56:29.221321[Thread 0x00007f854670ff00]:can not find parent for config /home/oangelo/.config/OrcaSlicer/user/default/process/0.12mm Fine Slow.json!
+[error]	2026-01-19 14:56:31.297806[Thread 0x00007f854670ff00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-19 14:56:31.312191[Thread 0x00007f846efff6c0]:Unable to open the file/home/oangelo/Downloads/Encaixe satélite (1).3mf
+[error]	2026-01-19 14:56:31.312208[Thread 0x00007f846d7f96c0]:Unable to open the file/home/oangelo/Downloads/DIN rail test rack v14.3mf
+[error]	2026-01-19 14:56:31.312221[Thread 0x00007f846ebfe6c0]:Unable to open the file/home/oangelo/.config/OrcaSlicer/log/Retraction test.3mf
+[error]	2026-01-19 14:56:31.312234[Thread 0x00007f846efff6c0]:Unable to open the file/home/oangelo/Downloads/acoplador (1).3mf
+[error]	2026-01-19 14:56:31.312242[Thread 0x00007f846ebfe6c0]:Unable to open the file/home/oangelo/Downloads/SkateBoard_56mm_Wall_Mount.3mf
+[error]	2026-01-19 14:56:31.312235[Thread 0x00007f846dffb6c0]:Unable to open the file/home/oangelo/Downloads/acoplador_nariz.3mf
+[error]	2026-01-19 14:56:31.312258[Thread 0x00007f846d3f86c0]:Unable to open the file/home/oangelo/.config/OrcaSlicer/log/iron_legion_helmet.3mf
+[warning]	2026-01-19 14:56:32.301297[Thread 0x00007f854670ff00]:14:56:32: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-19 14:56:32.310110[Thread 0x00007f854670ff00]:14:56:32: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-19 14:56:32.313631[Thread 0x00007f854670ff00]:14:56:32: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-19 14:56:32.397410[Thread 0x00007f854670ff00]:14:56:32: Warning: Error running JavaScript: Unsupported result type
+[error]	2026-01-19 14:56:33.959463[Thread 0x00007f854670ff00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-19 14:56:33.986171[Thread 0x00007f854670ff00]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2026-01-19 14:56:44.377621[Thread 0x00007f854670ff00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-19 15:00:17.466116[Thread 0x00007f854670ff00]:calc_exclude_triangles:Unable to create exclude triangles

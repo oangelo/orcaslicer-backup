@@ -1,0 +1,19 @@
+{
+    "default_filament_colour": [
+        "#1C71D8"
+    ],
+    "filament_flow_ratio": [
+        "0.74"
+    ],
+    "filament_max_volumetric_speed": [
+        "30"
+    ],
+    "filament_settings_id": [
+        "Generic PETG 0.8 nozzle"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PETG @Ender-3V3-all",
+    "is_custom_defined": "0",
+    "name": "Generic PETG 0.8 nozzle",
+    "version": "2.3.0.3"
+}

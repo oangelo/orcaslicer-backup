@@ -1,0 +1,19 @@
+{
+    "enable_support": "1",
+    "from": "User",
+    "gap_infill_speed": "60",
+    "inherits": "0.12mm Fine @Creality Ender3V3SE",
+    "initial_layer_speed": "60",
+    "inner_wall_speed": "80",
+    "internal_solid_infill_speed": "80",
+    "is_custom_defined": "0",
+    "name": "0.12mm Fine Slow",
+    "outer_wall_speed": "80",
+    "print_settings_id": "0.12mm Fine Slow",
+    "sparse_infill_speed": "80",
+    "support_speed": "60",
+    "support_style": "default",
+    "top_surface_speed": "60",
+    "version": "1.9.0.2",
+    "wall_loops": "3"
+}

@@ -1,0 +1,60 @@
+[error]	2026-01-25 19:33:13.180821[Thread 0x00007f0dff9dcf00]:can not find parent for config /home/oangelo/.config/OrcaSlicer/user/default/process/0.16mm Optimal @Creality Ender3V3SE - Copy.json!
+[error]	2026-01-25 19:33:13.181280[Thread 0x00007f0dff9dcf00]:can not find parent for config /home/oangelo/.config/OrcaSlicer/user/default/process/0.12mm Fine Slow.json!
+[error]	2026-01-25 19:33:13.185735[Thread 0x00007f0dff9dcf00]:can not find parent for config /home/oangelo/.config/OrcaSlicer/user/default/process/0.20mm Standard @Creality Ender3V3SE - Copy.json!
+[error]	2026-01-25 19:33:15.198192[Thread 0x00007f0dff9dcf00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-25 19:33:15.214655[Thread 0x00007f0dff9dcf00]:Unable to open the file/home/oangelo/Downloads/BnB_Soft+Incense+Holders_v2.3mf
+[error]	2026-01-25 19:33:15.214689[Thread 0x00007f0d44bfe6c0]:Unable to open the file/home/oangelo/Downloads/EchoESP_Control_stls/obj_3_EchoESP_CaseBack.3mf
+[error]	2026-01-25 19:33:15.214716[Thread 0x00007f0d44fff6c0]:Unable to open the file/home/oangelo/Downloads/Model 3 Medium casing.3mf
+[error]	2026-01-25 19:33:15.214725[Thread 0x00007f0d447fd6c0]:Unable to open the file/home/oangelo/Downloads/din-clip-redux-unibody.3mf
+[error]	2026-01-25 19:33:15.214727[Thread 0x00007f0d44bfe6c0]:Unable to open the file/home/oangelo/Downloads/SkateBoard_56mm_Wall_Mount.3mf
+[error]	2026-01-25 19:33:15.214750[Thread 0x00007f0d44fff6c0]:Unable to open the file/home/oangelo/Downloads/Speaker_V4_body.3mf
+[error]	2026-01-25 19:33:15.214757[Thread 0x00007f0d447fd6c0]:Unable to open the file/home/oangelo/Downloads/Model 3 Medium lid.3mf
+[error]	2026-01-25 19:33:15.214775[Thread 0x00007f0d447fd6c0]:Unable to open the file/home/oangelo/Downloads/EchoESP_Control_stls/obj_4_EchoESP_CaseFront.3mf
+[error]	2026-01-25 19:33:15.214768[Thread 0x00007f0d44bfe6c0]:Unable to open the file/home/oangelo/Downloads/Encaixe satélite (1).3mf
+[error]	2026-01-25 19:33:15.214807[Thread 0x00007f0d44bfe6c0]:Unable to open the file/home/oangelo/.config/OrcaSlicer/log/iron_legion_helmet.3mf
+[error]	2026-01-25 19:33:15.214770[Thread 0x00007f0d44fff6c0]:Unable to open the file/home/oangelo/Downloads/EchoESP_Control_stls/obj_8_EchoESP_oben.3mf
+[error]	2026-01-25 19:33:15.214825[Thread 0x00007f0d44bfe6c0]:Unable to open the file/home/oangelo/Documentos/rocket/noze/bottom.3mf
+[error]	2026-01-25 19:33:15.214794[Thread 0x00007f0d447fd6c0]:Unable to open the file/home/oangelo/.config/OrcaSlicer/log/Retraction test.3mf
+[error]	2026-01-25 19:33:15.214870[Thread 0x00007f0d44fff6c0]:Unable to open the file/home/oangelo/Documentos/rocket/noze/nariz_com_modulo.3mf
+[error]	2026-01-25 19:33:15.214870[Thread 0x00007f0d44bfe6c0]:Unable to open the file/home/oangelo/Documentos/rocket/noze/top_pinos.3mf
+[error]	2026-01-25 19:33:15.214892[Thread 0x00007f0d447fd6c0]:Unable to open the file/home/oangelo/Documentos/rocket/noze/pinos.3mf
+[error]	2026-01-25 19:33:15.214900[Thread 0x00007f0d44fff6c0]:Unable to open the file/home/oangelo/Downloads/DIN rail test rack v14.3mf
+[warning]	2026-01-25 19:33:15.997363[Thread 0x00007f0dff9dcf00]:19:33:15: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-25 19:33:16.015644[Thread 0x00007f0dff9dcf00]:19:33:16: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-25 19:33:16.026915[Thread 0x00007f0dff9dcf00]:19:33:16: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-25 19:33:16.086974[Thread 0x00007f0dff9dcf00]:19:33:16: Warning: Error running JavaScript: Unsupported result type
+[error]	2026-01-25 19:33:19.200240[Thread 0x00007f0dff9dcf00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-25 19:33:23.125190[Thread 0x00007f0dff9dcf00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-25 19:33:23.182731[Thread 0x00007f0dff9dcf00]:can not find parent for config /tmp/orcaslicer_model/Sun_Jan_25/19_33_19#5912#51/_temp_2.config!
+[warning]	2026-01-25 19:33:25.023767[Thread 0x00007f0dff9dcf00]:validate_preset: preset_name Bambu Lab X1 Carbon 0.4 nozzle, no inherit, set to not found
+[warning]	2026-01-25 19:33:25.023835[Thread 0x00007f0dff9dcf00]:validate_presets:file_name Hoverboard+Wall+Mount+1.0.3mf, found the printer preset not inherit from system
+[warning]	2026-01-25 19:33:25.023858[Thread 0x00007f0dff9dcf00]:validate_preset: preset_name Bambu PLA Matte @BBL X1C, no inherit, set to not found
+[warning]	2026-01-25 19:33:25.023868[Thread 0x00007f0dff9dcf00]:validate_presets:file_name Hoverboard+Wall+Mount+1.0.3mf, found the filament 1 preset not inherit from system
+[warning]	2026-01-25 19:33:25.023882[Thread 0x00007f0dff9dcf00]:validate_preset: preset_name Bambu PLA Matte @BBL X1C, no inherit, set to not found
+[warning]	2026-01-25 19:33:25.023892[Thread 0x00007f0dff9dcf00]:validate_presets:file_name Hoverboard+Wall+Mount+1.0.3mf, found the filament 2 preset not inherit from system
+[warning]	2026-01-25 19:33:25.023904[Thread 0x00007f0dff9dcf00]:validate_preset: preset_name Bambu PLA Matte @BBL X1C, no inherit, set to not found
+[warning]	2026-01-25 19:33:25.023912[Thread 0x00007f0dff9dcf00]:validate_presets:file_name Hoverboard+Wall+Mount+1.0.3mf, found the filament 3 preset not inherit from system
+[warning]	2026-01-25 19:33:25.023921[Thread 0x00007f0dff9dcf00]:validate_preset: preset_name Bambu PLA Matte @BBL X1C, no inherit, set to not found
+[warning]	2026-01-25 19:33:25.023929[Thread 0x00007f0dff9dcf00]:validate_presets:file_name Hoverboard+Wall+Mount+1.0.3mf, found the filament 4 preset not inherit from system
+[warning]	2026-01-25 19:33:25.023938[Thread 0x00007f0dff9dcf00]:validate_presets:file_name Hoverboard+Wall+Mount+1.0.3mf, found self defined presets, count 2
+[warning]	2026-01-25 19:33:27.500242[Thread 0x00007f0dff9dcf00]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2026-01-25 19:33:33.103842[Thread 0x00007f0dff9dcf00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-25 19:40:11.500443[Thread 0x00007f0dff9dcf00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-25 19:40:38.214258[Thread 0x00007f0dff9dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-25 19:41:42.377593[Thread 0x00007f0dff9dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-25 19:41:45.989774[Thread 0x00007f0dff9dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-25 19:42:12.017830[Thread 0x00007f0dff9dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-25 19:42:14.840522[Thread 0x00007f0dff9dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-25 19:42:53.389356[Thread 0x00007f0dff9dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-25 19:42:55.566917[Thread 0x00007f0dff9dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-25 19:42:57.431896[Thread 0x00007f0dff9dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-25 19:43:06.137695[Thread 0x00007f0dff9dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-25 19:43:12.885059[Thread 0x00007f0dff9dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-25 19:43:46.754644[Thread 0x00007f0dff9dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-25 19:44:14.738083[Thread 0x00007f0dff9dcf00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-25 19:44:16.300635[Thread 0x00007f0dff9dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-25 19:45:18.883400[Thread 0x00007f0dff9dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-25 19:45:21.499613[Thread 0x00007f0dff9dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-25 19:45:51.581033[Thread 0x00007f0dff9dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-01-26 08:21:03.728592[Thread 0x00007f0dff9dcf00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-26 08:21:03.791808[Thread 0x00007f0dff9dcf00]:tree_sel_change_delayedcan not find page with current selection 

@@ -1,0 +1,13 @@
+{
+    "default_acceleration": "4000",
+    "from": "User",
+    "inherits": "0.24mm Draft @Creality Ender3V3SE 0.4",
+    "initial_layer_acceleration": "1000",
+    "inner_wall_acceleration": "4000",
+    "is_custom_defined": "0",
+    "name": "0.24mm Draft  0.4 - FAST",
+    "outer_wall_acceleration": "2000",
+    "print_settings_id": "0.24mm Draft  0.4 - FAST",
+    "travel_acceleration": "5000",
+    "version": "2.3.0.3"
+}

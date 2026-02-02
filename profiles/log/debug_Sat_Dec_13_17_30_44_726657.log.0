@@ -1,0 +1,25 @@
+[error]	2025-12-13 17:31:10.714659[Thread 0x00007f0ae76fdf00]:can not find parent for config /home/oangelo/.config/OrcaSlicer/user/default/process/0.20mm Standard @Creality Ender3V3SE - Copy.json!
+[error]	2025-12-13 17:31:10.715622[Thread 0x00007f0ae76fdf00]:can not find parent for config /home/oangelo/.config/OrcaSlicer/user/default/process/0.16mm Optimal @Creality Ender3V3SE - Copy.json!
+[error]	2025-12-13 17:31:10.967887[Thread 0x00007f0ae76fdf00]:can not find parent for config /home/oangelo/.config/OrcaSlicer/user/default/process/0.12mm Fine Slow.json!
+[error]	2025-12-13 17:31:13.588491[Thread 0x00007f0ae76fdf00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-13 17:31:13.595779[Thread 0x00007f0a2d3fe6c0]:Unable to open the file/home/oangelo/Downloads/acoplador_nariz.3mf
+[error]	2025-12-13 17:31:13.595798[Thread 0x00007f0a2d3fe6c0]:Unable to open the file/home/oangelo/Downloads/acoplador (1).3mf
+[error]	2025-12-13 17:31:13.595804[Thread 0x00007f0a2d3fe6c0]:Unable to open the file/home/oangelo/Downloads/Brinde_Nádia.3mf
+[error]	2025-12-13 17:31:13.595807[Thread 0x00007f0a2d3fe6c0]:Unable to open the file/home/oangelo/Downloads/nariz.3mf
+[error]	2025-12-13 17:31:13.595841[Thread 0x00007f0a077fd6c0]:Unable to open the file/home/oangelo/Downloads/Encaixe satélite (1).3mf
+[error]	2025-12-13 17:31:13.595864[Thread 0x00007f0a2cbfc6c0]:Unable to open the file/home/oangelo/Downloads/SkateBoard_56mm_Wall_Mount.3mf
+[error]	2025-12-13 17:31:13.596047[Thread 0x00007f0a06bfa6c0]:Unable to open the file/home/oangelo/Downloads/DIN rail test rack v14.3mf
+[warning]	2025-12-13 17:31:14.339425[Thread 0x00007f0ae76fdf00]:17:31:14: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-13 17:31:14.344102[Thread 0x00007f0ae76fdf00]:17:31:14: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-13 17:31:14.345553[Thread 0x00007f0ae76fdf00]:17:31:14: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-13 17:31:14.952379[Thread 0x00007f0ae76fdf00]:17:31:14: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-12-13 17:31:16.452912[Thread 0x00007f0ae76fdf00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-13 17:31:16.483537[Thread 0x00007f0ae76fdf00]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-12-13 17:31:27.226201[Thread 0x00007f0ae76fdf00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-14 07:13:51.113201[Thread 0x00007f0a5e4b06c0]:Arrange full params: {"min_obj_distance":14000000,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":47,000000,"clearance_height_to_lid":34,000000,"clearance_radius":90,000000,"printable_height":250,000000,
+[error]	2025-12-14 07:16:19.532797[Thread 0x00007f0add3c86c0]:gcode path conflicts found between Backhorn_V4_Feet_Back.stl and Backhorn_V4_Feet_Back.stl
+[error]	2025-12-14 07:16:48.379401[Thread 0x00007f0add3c86c0]:gcode path conflicts found between Backhorn_V4_Feet_Back.stl and Backhorn_V4_Feet_Back.stl
+[error]	2025-12-14 08:32:47.893923[Thread 0x00007f0ae76fdf00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-14 08:33:06.568088[Thread 0x00007f0a5e4b06c0]:Arrange full params: {"min_obj_distance":14000000,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":47,000000,"clearance_height_to_lid":34,000000,"clearance_radius":90,000000,"printable_height":250,000000,
+[error]	2025-12-14 09:18:39.570087[Thread 0x00007f0ae76fdf00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-14 09:24:44.611218[Thread 0x00007f0ae76fdf00]:calc_exclude_triangles:Unable to create exclude triangles

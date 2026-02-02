@@ -1,0 +1,22 @@
+{
+    "default_filament_colour": [
+        "#FFFFFF"
+    ],
+    "filament_settings_id": [
+        "Voolt ABS Branco"
+    ],
+    "filament_vendor": [
+        "Voolt 3D"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic ABS @Ender-3V3-all",
+    "is_custom_defined": "0",
+    "name": "Voolt ABS Branco",
+    "nozzle_temperature": [
+        "240"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "242"
+    ],
+    "version": "2.3.0.3"
+}

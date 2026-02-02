@@ -1,0 +1,29 @@
+[error]	2025-12-31 07:10:17.104535[Thread 0x00007f87126e3f00]:can not find parent for config /home/oangelo/.config/OrcaSlicer/user/default/process/0.20mm Standard @Creality Ender3V3SE - Copy.json!
+[error]	2025-12-31 07:10:17.105595[Thread 0x00007f87126e3f00]:can not find parent for config /home/oangelo/.config/OrcaSlicer/user/default/process/0.16mm Optimal @Creality Ender3V3SE - Copy.json!
+[error]	2025-12-31 07:10:17.205725[Thread 0x00007f87126e3f00]:can not find parent for config /home/oangelo/.config/OrcaSlicer/user/default/process/0.12mm Fine Slow.json!
+[error]	2025-12-31 07:10:18.407083[Thread 0x00007f86657fa6c0]:Not primary owner of DBus name - probably another OrcaSlicer instance is running.
+[error]	2025-12-31 07:10:18.407100[Thread 0x00007f86657fa6c0]:Dbus Messages listening terminating.
+[error]	2025-12-31 07:10:19.424791[Thread 0x00007f87126e3f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-31 07:10:19.435818[Thread 0x00007f8633fff6c0]:Unable to open the file/home/oangelo/Downloads/SkateBoard_56mm_Wall_Mount.3mf
+[error]	2025-12-31 07:10:19.435828[Thread 0x00007f863e7ff6c0]:Unable to open the file/home/oangelo/.config/OrcaSlicer/log/iron_legion_helmet.3mf
+[error]	2025-12-31 07:10:19.435842[Thread 0x00007f8633fff6c0]:Unable to open the file/home/oangelo/Downloads/Encaixe satélite (1).3mf
+[error]	2025-12-31 07:10:19.435855[Thread 0x00007f8633fff6c0]:Unable to open the file/home/oangelo/Downloads/acoplador (1).3mf
+[error]	2025-12-31 07:10:19.435859[Thread 0x00007f863d7fb6c0]:Unable to open the file/home/oangelo/Downloads/acoplador_nariz.3mf
+[error]	2025-12-31 07:10:19.435863[Thread 0x00007f8633fff6c0]:Unable to open the file/home/oangelo/Downloads/Brinde_Nádia.3mf
+[error]	2025-12-31 07:10:19.435882[Thread 0x00007f863cbf86c0]:Unable to open the file/home/oangelo/Downloads/DIN rail test rack v14.3mf
+[error]	2025-12-31 07:10:19.435889[Thread 0x00007f863d7fb6c0]:Unable to open the file/home/oangelo/.config/OrcaSlicer/log/Retraction test.3mf
+[warning]	2025-12-31 07:10:20.433430[Thread 0x00007f87126e3f00]:07:10:20: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-31 07:10:20.436798[Thread 0x00007f87126e3f00]:07:10:20: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-31 07:10:20.439564[Thread 0x00007f87126e3f00]:07:10:20: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-31 07:10:20.442928[Thread 0x00007f87126e3f00]:07:10:20: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-12-31 07:10:22.178042[Thread 0x00007f87126e3f00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-31 07:10:22.218514[Thread 0x00007f87126e3f00]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-12-31 07:10:24.416321[Thread 0x00007f87126e3f00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-31 07:11:02.021527[Thread 0x00007f8686ff76c0]:Arrange full params: {"min_obj_distance":14000000,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":47,000000,"clearance_height_to_lid":34,000000,"clearance_radius":90,000000,"printable_height":250,000000,
+[warning]	2025-12-31 12:18:43.422431[Thread 0x00007f8686ff76c0]:Arrange full params: {"min_obj_distance":14000000,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":47,000000,"clearance_height_to_lid":34,000000,"clearance_radius":90,000000,"printable_height":250,000000,
+[error]	2026-01-01 12:17:37.864398[Thread 0x00007f87126e3f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-01 12:21:07.311259[Thread 0x00007f87126e3f00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-01 12:26:34.257539[Thread 0x00007f8686ff76c0]:Arrange full params: {"min_obj_distance":14000000,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":47,000000,"clearance_height_to_lid":34,000000,"clearance_radius":90,000000,"printable_height":250,000000,
+[warning]	2026-01-01 12:26:47.136714[Thread 0x00007f8686ff76c0]:Arrange full params: {"min_obj_distance":14000000,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":47,000000,"clearance_height_to_lid":34,000000,"clearance_radius":90,000000,"printable_height":250,000000,
+[warning]	2026-01-01 12:26:55.023685[Thread 0x00007f8686ff76c0]:Arrange full params: {"min_obj_distance":14000000,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":47,000000,"clearance_height_to_lid":34,000000,"clearance_radius":90,000000,"printable_height":250,000000,
+[error]	2026-01-01 13:04:04.541272[Thread 0x00007f87126e3f00]:calc_exclude_triangles:Unable to create exclude triangles

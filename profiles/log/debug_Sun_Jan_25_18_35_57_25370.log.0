@@ -1,0 +1,16 @@
+[error]	2026-01-25 18:36:04.311211[Thread 0x00007fbf6dce1f00]:can not find parent for config /home/oangelo/.config/OrcaSlicer/user/default/process/0.20mm Standard @Creality Ender3V3SE - Copy.json!
+[error]	2026-01-25 18:36:04.311304[Thread 0x00007fbf6dce1f00]:can not find parent for config /home/oangelo/.config/OrcaSlicer/user/default/process/0.16mm Optimal @Creality Ender3V3SE - Copy.json!
+[error]	2026-01-25 18:36:04.312551[Thread 0x00007fbf6dce1f00]:can not find parent for config /home/oangelo/.config/OrcaSlicer/user/default/process/0.12mm Fine Slow.json!
+[error]	2026-01-25 18:36:05.505888[Thread 0x00007fbf6dce1f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-25 18:36:05.514761[Thread 0x00007fbe963fe6c0]:Unable to open the file/home/oangelo/Downloads/Encaixe satélite (1).3mf
+[error]	2026-01-25 18:36:05.514887[Thread 0x00007fbe94ff96c0]:Unable to open the file/home/oangelo/Downloads/SkateBoard_56mm_Wall_Mount.3mf
+[error]	2026-01-25 18:36:05.514913[Thread 0x00007fbe963fe6c0]:Unable to open the file/home/oangelo/.config/OrcaSlicer/log/iron_legion_helmet.3mf
+[error]	2026-01-25 18:36:05.514981[Thread 0x00007fbe94ff96c0]:Unable to open the file/home/oangelo/.config/OrcaSlicer/log/Retraction test.3mf
+[error]	2026-01-25 18:36:05.514977[Thread 0x00007fbe95ffd6c0]:Unable to open the file/home/oangelo/Downloads/DIN rail test rack v14.3mf
+[warning]	2026-01-25 18:36:05.759200[Thread 0x00007fbf6dce1f00]:18:36:05: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-25 18:36:05.765673[Thread 0x00007fbf6dce1f00]:18:36:05: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-25 18:36:05.819184[Thread 0x00007fbf6dce1f00]:18:36:05: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-25 18:36:05.820936[Thread 0x00007fbf6dce1f00]:18:36:05: Warning: Error running JavaScript: Unsupported result type
+[error]	2026-01-25 18:36:07.296068[Thread 0x00007fbf6dce1f00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-01-25 18:36:07.321946[Thread 0x00007fbf6dce1f00]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2026-01-25 18:36:21.297347[Thread 0x00007fbf6dce1f00]:calc_exclude_triangles:Unable to create exclude triangles

@@ -1,0 +1,26 @@
+[error]	2026-02-02 07:44:59.843698[Thread 0x00007fb0728eaf00]:can not find parent for config /home/oangelo/.config/OrcaSlicer/user/default/process/0.16mm Optimal @Creality Ender3V3SE - Copy.json!
+[error]	2026-02-02 07:44:59.844466[Thread 0x00007fb0728eaf00]:can not find parent for config /home/oangelo/.config/OrcaSlicer/user/default/process/0.12mm Fine Slow.json!
+[error]	2026-02-02 07:44:59.852016[Thread 0x00007fb0728eaf00]:can not find parent for config /home/oangelo/.config/OrcaSlicer/user/default/process/0.20mm Standard @Creality Ender3V3SE - Copy.json!
+[error]	2026-02-02 07:45:02.611031[Thread 0x00007fb0728eaf00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-02-02 07:45:02.630417[Thread 0x00007fb0728eaf00]:Unable to open the file/home/oangelo/Downloads/BnB_Soft+Incense+Holders_v2.3mf
+[error]	2026-02-02 07:45:02.630638[Thread 0x00007f9fbe7fa6c0]:Unable to open the file/home/oangelo/Downloads/Model 3 Medium casing.3mf
+[error]	2026-02-02 07:45:02.630686[Thread 0x00007f9fbe7fa6c0]:Unable to open the file/home/oangelo/Downloads/Speaker_V4_body.3mf
+[error]	2026-02-02 07:45:02.630708[Thread 0x00007f9fbe7fa6c0]:Unable to open the file/home/oangelo/Downloads/EchoESP_Control_stls/obj_4_EchoESP_CaseFront.3mf
+[error]	2026-02-02 07:45:02.630726[Thread 0x00007f9fbe7fa6c0]:Unable to open the file/home/oangelo/.config/OrcaSlicer/log/Retraction test.3mf
+[error]	2026-02-02 07:45:02.630746[Thread 0x00007f9fbe7fa6c0]:Unable to open the file/home/oangelo/Documentos/rocket/noze/bottom.3mf
+[error]	2026-02-02 07:45:02.630767[Thread 0x00007f9fbe7fa6c0]:Unable to open the file/home/oangelo/Documentos/rocket/noze/top_pinos.3mf
+[error]	2026-02-02 07:45:02.630784[Thread 0x00007f9fbe7fa6c0]:Unable to open the file/home/oangelo/Documentos/rocket/noze/nariz_com_modulo.3mf
+[error]	2026-02-02 07:45:02.630802[Thread 0x00007f9fbe7fa6c0]:Unable to open the file/home/oangelo/Documentos/rocket/noze/pinos.3mf
+[error]	2026-02-02 07:45:02.630820[Thread 0x00007f9fbe7fa6c0]:Unable to open the file/home/oangelo/Downloads/DIN rail test rack v14.3mf
+[error]	2026-02-02 07:45:02.630838[Thread 0x00007f9fbe7fa6c0]:Unable to open the file/home/oangelo/Downloads/din-clip-redux-unibody.3mf
+[error]	2026-02-02 07:45:02.630910[Thread 0x00007f9fbe3f96c0]:Unable to open the file/home/oangelo/Downloads/EchoESP_Control_stls/obj_8_EchoESP_oben.3mf
+[error]	2026-02-02 07:45:02.631058[Thread 0x00007f9fbe3f96c0]:Unable to open the file/home/oangelo/Downloads/Model 3 Medium lid.3mf
+[error]	2026-02-02 07:45:02.631087[Thread 0x00007f9fbe3f96c0]:Unable to open the file/home/oangelo/Downloads/Encaixe satélite (1).3mf
+[error]	2026-02-02 07:45:02.631104[Thread 0x00007f9fbe3f96c0]:Unable to open the file/home/oangelo/.config/OrcaSlicer/log/iron_legion_helmet.3mf
+[error]	2026-02-02 07:45:02.631121[Thread 0x00007f9fbe3f96c0]:Unable to open the file/home/oangelo/Downloads/SkateBoard_56mm_Wall_Mount.3mf
+[error]	2026-02-02 07:45:02.630957[Thread 0x00007f9fbebfb6c0]:Unable to open the file/home/oangelo/Downloads/EchoESP_Control_stls/obj_3_EchoESP_CaseBack.3mf
+[warning]	2026-02-02 07:45:03.824903[Thread 0x00007fb0728eaf00]:07:45:03: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-02-02 07:45:03.858734[Thread 0x00007fb0728eaf00]:07:45:03: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-02-02 07:45:04.125405[Thread 0x00007fb0728eaf00]:07:45:04: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-02-02 07:45:04.132289[Thread 0x00007fb0728eaf00]:07:45:04: Warning: Error running JavaScript: Unsupported result type
+[error]	2026-02-02 07:45:07.595469[Thread 0x00007fb0728eaf00]:calc_exclude_triangles:Unable to create exclude triangles

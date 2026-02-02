@@ -1,0 +1,14 @@
+[error]	2026-01-25 19:04:52.204500[Thread 0x00007f38667f3f00]:can not find parent for config /home/oangelo/.config/OrcaSlicer/user/default/process/0.20mm Standard @Creality Ender3V3SE - Copy.json!
+[error]	2026-01-25 19:04:52.204602[Thread 0x00007f38667f3f00]:can not find parent for config /home/oangelo/.config/OrcaSlicer/user/default/process/0.16mm Optimal @Creality Ender3V3SE - Copy.json!
+[error]	2026-01-25 19:04:52.205831[Thread 0x00007f38667f3f00]:can not find parent for config /home/oangelo/.config/OrcaSlicer/user/default/process/0.12mm Fine Slow.json!
+[error]	2026-01-25 19:04:53.108231[Thread 0x00007f38667f3f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2026-01-25 19:04:53.115031[Thread 0x00007f37877fd6c0]:Unable to open the file/home/oangelo/Downloads/Encaixe satélite (1).3mf
+[error]	2026-01-25 19:04:53.115059[Thread 0x00007f378d4fe6c0]:Unable to open the file/home/oangelo/Downloads/SkateBoard_56mm_Wall_Mount.3mf
+[error]	2026-01-25 19:04:53.115068[Thread 0x00007f37877fd6c0]:Unable to open the file/home/oangelo/.config/OrcaSlicer/log/iron_legion_helmet.3mf
+[error]	2026-01-25 19:04:53.115118[Thread 0x00007f37873fc6c0]:Unable to open the file/home/oangelo/Downloads/DIN rail test rack v14.3mf
+[error]	2026-01-25 19:04:53.115197[Thread 0x00007f3787fff6c0]:Unable to open the file/home/oangelo/.config/OrcaSlicer/log/Retraction test.3mf
+[warning]	2026-01-25 19:04:54.121590[Thread 0x00007f38667f3f00]:19:04:54: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-25 19:04:54.150545[Thread 0x00007f38667f3f00]:19:04:54: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-25 19:04:54.153588[Thread 0x00007f38667f3f00]:19:04:54: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-01-25 19:04:54.176764[Thread 0x00007f38667f3f00]:19:04:54: Warning: Error running JavaScript: Unsupported result type
+[error]	2026-01-25 19:04:55.981224[Thread 0x00007f38667f3f00]:calc_exclude_triangles:Unable to create exclude triangles

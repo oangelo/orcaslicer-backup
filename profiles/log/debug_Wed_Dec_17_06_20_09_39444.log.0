@@ -1,0 +1,27 @@
+[error]	2025-12-17 06:20:16.742143[Thread 0x00007fafef41af00]:can not find parent for config /home/oangelo/.config/OrcaSlicer/user/default/process/0.20mm Standard @Creality Ender3V3SE - Copy.json!
+[error]	2025-12-17 06:20:16.742237[Thread 0x00007fafef41af00]:can not find parent for config /home/oangelo/.config/OrcaSlicer/user/default/process/0.16mm Optimal @Creality Ender3V3SE - Copy.json!
+[error]	2025-12-17 06:20:16.743240[Thread 0x00007fafef41af00]:can not find parent for config /home/oangelo/.config/OrcaSlicer/user/default/process/0.12mm Fine Slow.json!
+[error]	2025-12-17 06:20:17.774742[Thread 0x00007fafef41af00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-17 06:20:17.781544[Thread 0x00007faf18ff96c0]:Unable to open the file/home/oangelo/Downloads/acoplador_nariz.3mf
+[error]	2025-12-17 06:20:17.781550[Thread 0x00007faf19ffd6c0]:Unable to open the file/home/oangelo/Downloads/Brinde_Nádia.3mf
+[error]	2025-12-17 06:20:17.781560[Thread 0x00007faf18ff96c0]:Unable to open the file/home/oangelo/Downloads/acoplador (1).3mf
+[error]	2025-12-17 06:20:17.781564[Thread 0x00007faf19ffd6c0]:Unable to open the file/home/oangelo/Downloads/nariz.3mf
+[error]	2025-12-17 06:20:17.781647[Thread 0x00007faf197fb6c0]:Unable to open the file/home/oangelo/Downloads/Encaixe satélite (1).3mf
+[error]	2025-12-17 06:20:17.781737[Thread 0x00007faf193fa6c0]:Unable to open the file/home/oangelo/Downloads/DIN rail test rack v14.3mf
+[error]	2025-12-17 06:20:17.781758[Thread 0x00007faf18bf86c0]:Unable to open the file/home/oangelo/.config/OrcaSlicer/log/iron_legion_helmet.3mf
+[error]	2025-12-17 06:20:17.781815[Thread 0x00007faf1a7ff6c0]:Unable to open the file/home/oangelo/Downloads/SkateBoard_56mm_Wall_Mount.3mf
+[warning]	2025-12-17 06:20:18.039116[Thread 0x00007fafef41af00]:06:20:18: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-17 06:20:18.044059[Thread 0x00007fafef41af00]:06:20:18: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-17 06:20:18.052887[Thread 0x00007fafef41af00]:06:20:18: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-17 06:20:18.061442[Thread 0x00007fafef41af00]:06:20:18: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-12-17 06:20:19.492085[Thread 0x00007fafef41af00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-17 06:20:19.525371[Thread 0x00007fafef41af00]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-12-17 06:20:24.603829[Thread 0x00007fafef41af00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-17 06:22:29.834440[Thread 0x00007faf62ff76c0]:Arrange full params: {"min_obj_distance":14000000,"accuracy":1,000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1,000000,"bed_shrink_y":1,000000,"brim_skirt_distance":0,000000,"clearance_height_to_rod":47,000000,"clearance_height_to_lid":34,000000,"clearance_radius":90,000000,"printable_height":250,000000,
+[warning]	2025-12-17 06:23:17.758550[Thread 0x00007fafd1d686c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-17 06:23:18.003304[Thread 0x00007faf187f76c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-17 06:23:18.028302[Thread 0x00007fafd1d686c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-17 06:23:18.039771[Thread 0x00007fafd1d686c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-12-17 06:23:18.053340[Thread 0x00007fafd1d686c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-12-17 06:23:18.062496[Thread 0x00007fafd1d686c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2025-12-17 20:23:42.357525[Thread 0x00007fafef41af00]:calc_exclude_triangles:Unable to create exclude triangles
