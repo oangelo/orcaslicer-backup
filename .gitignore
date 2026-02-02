@@ -15,3 +15,8 @@
 # Cache e thumbnails
 thumbs/
 cache/
+
+# Artefatos do OrcaSlicer que nao valem versionar
+profiles/log/
+profiles/ota/
+profiles/hms/
