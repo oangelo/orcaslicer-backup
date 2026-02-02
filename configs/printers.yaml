@@ -1,0 +1,16 @@
+printers:
+  - name: Medusa
+    base_model: "Ender 3"
+    firmware: "Klipper"
+    notes:
+      - "Highly modified"
+    mods:
+      - "Linear rails"
+      - "Dual Z axis"
+      - "Direct drive extruder Spriter Pro"
+
+  - name: Hera
+    base_model: "Ender 3 V3 SE"
+    firmware: "Klipper"
+    notes:
+      - "Stock frame, tuned for lab use"

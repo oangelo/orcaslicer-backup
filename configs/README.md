@@ -4,7 +4,7 @@ Esta pasta nao e usada diretamente pelo OrcaSlicer. Ela serve para guardar
 informacoes de referencia que ajudam a manter os perfis organizados.
 
 Sugestoes de arquivos:
-- `printers.yaml`: inventario de impressoras, nozzle, mods, localizacao.
+- `printers.yaml`: inventario de impressoras, nozzle, mods, firmware, notas.
 - `materials.yaml`: fornecedores, materiais, cores e lote.
 - `processes.md`: resumo das camadas/qualidades usadas no laboratorio.
 - `maintenance.md`: historico de manutencao e observacoes.
