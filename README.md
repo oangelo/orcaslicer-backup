@@ -1,4 +1,4 @@
-# Backup OrcaSlicer - LaRA UERJ
+# Backup OrcaSlicer 
 
 Backup dos perfis e configurações do OrcaSlicer usado nas impressoras 3D do laboratório.
 
