@@ -9,11 +9,14 @@
         "30"
     ],
     "filament_settings_id": [
-        "Generic PETG 0.8 nozzle"
+        "3dfila PET"
     ],
     "from": "User",
     "inherits": "Creality Generic PETG @Ender-3V3-all",
     "is_custom_defined": "0",
-    "name": "Generic PETG 0.8 nozzle",
+    "name": "3dfila PET",
+    "filament_vendor": [
+        "3dfila"
+    ],
     "version": "2.3.0.3"
 }

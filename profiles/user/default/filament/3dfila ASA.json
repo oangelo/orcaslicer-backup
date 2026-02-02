@@ -3,7 +3,7 @@
         "0.5"
     ],
     "filament_settings_id": [
-        "ASA"
+        "3dfila ASA"
     ],
     "from": "User",
     "hot_plate_temp": [
@@ -14,7 +14,10 @@
     ],
     "inherits": "Creality Generic ASA @Ender-3V3-all",
     "is_custom_defined": "0",
-    "name": "ASA",
+    "name": "3dfila ASA",
+    "filament_vendor": [
+        "3dfila"
+    ],
     "nozzle_temperature": [
         "245"
     ],
